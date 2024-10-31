@@ -1,0 +1,11 @@
+
+a:  {color:#205f5e;}
+a:visited { 
+    color:  #c2514b;
+}
+a:hover{
+    color: rgb(27, 94, 25);
+}
+a:active {
+    color:#31205f;
+}
